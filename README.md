@@ -1,1 +1,1 @@
-# breast-cancer-detction
+# breast-cancer-prediction
